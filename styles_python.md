@@ -1,6 +1,6 @@
 # Guia de Estilo para Python
 ## Max long lineas
-Limita todas las líneas a un máximo de 80 caracteres.
+	Limita todas las líneas a un máximo de 80 caracteres.
 ---
 ## Lineas en blanco
 
@@ -15,12 +15,16 @@ un conjunto de implementaciones ficticias).
 
 ---
 ## Importaciones
-Las importaciones deben estar en líneas separadas, por ejemplo:
-	Sí: import os
-	    import sys
-	No: import sys, os
+Las importaciones deben estar en líneas separadas, por ejemplo: 
+
+	Sí:	
+		import os
+		import sys
+	No: 
+		import sys, os
 
 Sin embargo, es correcto decir:
+
 	from subprocess import Popen, PIPE
 
 Las importaciones siempre se colocan al comienzo del archivo,simplemente luego de cualquier comentario o documentación del
