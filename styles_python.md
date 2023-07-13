@@ -257,3 +257,19 @@ Generalmente, el doble guión bajo como prefijo debería ser únicamente utiliza
 Las constantes son generalmente definidas a nivel módulo, escritas
 con todas las letras en mayúscula y con guiones bajos separando
 palabras. Por ejemplo, MAX_OVERFLOW y TOTAL.
+
+
+# Conclusiones
+Como son muchas cosas hay formateadores de codigo que hacen la mayoria de estas cosas automaticamente. A estos programas se les llama 'linter'.
+
+## Linter
+
+Un linter es una herramienta de análisis estático de código que ayuda a identificar problemas, errores y posibles mejoras en el código fuente. Su objetivo principal es mejorar la calidad del código y mantener un estilo de programación consistente dentro de un proyecto.
+
+El término "linter" proviene del programa llamado "lint" que fue desarrollado originalmente para el lenguaje de programación C. Sin embargo, hoy en día, el término "linter" se utiliza de manera más general para referirse a herramientas similares en otros lenguajes de programación, incluido Python.
+
+En el contexto de Python, uno de los linters más populares es pylint. Pylint analiza el código Python en busca de errores sintácticos, problemas de estilo, convenciones de nomenclatura y posibles errores lógicos. Proporciona recomendaciones y advertencias para ayudar a mejorar la calidad del código.
+
+## Estandars
+### PEP8
+En cuanto a "PEP 8", es una guía de estilo para el código Python. PEP es la abreviatura de "Python Enhancement Proposal" (Propuesta de Mejora de Python), y el PEP 8 es un documento que establece las recomendaciones y convenciones para escribir código Python legible y de calidad. Proporciona directrices sobre el formato de código, nombres de variables, comentarios, espacios en blanco y otras prácticas de estilo.
