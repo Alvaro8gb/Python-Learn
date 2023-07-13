@@ -15,3 +15,7 @@ Regex:
 
 Logs in Python:
 - [logs](https://docs.python.org/3/howto/logging.html)
+
+
+Virtual Enviroments:
+- [pipenv]()
