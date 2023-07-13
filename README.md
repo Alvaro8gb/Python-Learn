@@ -18,4 +18,6 @@ Logs in Python:
 
 
 Virtual Enviroments:
-- [pipenv]()
+Pipenv es una capa superior de abstraccion sobre los entornos virtuales de python.
+- [pipenv](https://pipenv.pypa.io/en/latest/)
+  -  [venv](https://docs.python.org/3/library/venv.html)
